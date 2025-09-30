@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student (halfway through my degree)  
 🚀 Startup founder @ **Sellenta** (https://www.sellenta.co/) – a digital marketplace helping talented creators land their first sale
-📱 Building **Campor** – a student-exclusive community app at BTH  
+🏛️ Building **Campor** – a student-exclusive community app at BTH  
 
 ---
 

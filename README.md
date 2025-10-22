@@ -8,7 +8,7 @@
 
 ### 🔭 Current Projects
 - **Campor** → Connecting students through a community-driven mobile app 
-- **Questit** → An app that transforms everyday tasks into engaging quests, making productivity fun and motivating.
+- **Questboard** → An app that transforms everyday tasks into engaging quests, making productivity fun and motivating.
 
 ---
 

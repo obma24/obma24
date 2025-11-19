@@ -1,7 +1,7 @@
 # Hey, I'm Obada Marawi
 
-🎓 SWE student (halfway through my degree)  
-🚀 Startup founder @ **Sellenta** – a digital marketplace helping talented creators land their first sale    
+🎓 SWE Student (halfway through my degree)  
+🚀 Startup Founder @ **Sellenta** – a digital marketplace helping talented creators land their first sale    
 🏛️ Building **Campor** – a student-exclusive community app at BTH  
 
 ---

@@ -6,19 +6,19 @@
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 - **Campor** → Connecting students through a community-driven mobile app 
 - **Questboard** → An app that transforms everyday tasks into engaging quests, making productivity fun and motivating.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Languages:** JavaScript, Python, C++
 - **Frameworks & Tools:** React Native, Node.js, Express, MySQL  
 - **Other:** Git, GitHub, VS Code, Expo  
 
 ---
 
-### 🌍 Connect With Me
+### Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/obada-marawi-56842a337/)  
 - ✉️ [Email](mailto:obadaa.marawi@email.com)  
